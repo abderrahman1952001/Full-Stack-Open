@@ -1,3 +1,4 @@
+```mermaid
 sequenceDiagram
     participant browser
     participant server
@@ -14,3 +15,4 @@ sequenceDiagram
     deactivate server
 
     Note over browser: No further requests.
+```
